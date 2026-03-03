@@ -1,4 +1,5 @@
-Agri-Sarthi-AWS-Hackathon
+#Agri-Sarthi-AWS-Hackathon
+
 Agri-Sarthi: The Indic AI Agent for Bharat Empowering 150 Million Farmers through Voice-First, "Action-Oriented" AI.
 
 Project Overview Agri-Sarthi is not just a chatbot; it is an Autonomous AI Agent designed to bridge the digital and linguistic divide in Indian agriculture. While existing tools only provide information (weather/prices), Agri-Sarthi takes action. It integrates with India's Digital Public Infrastructure (DPI) like AgriStack and ONDC to help farmers file insurance claims and purchase supplies using simple voice commands in 22 regional languages.
